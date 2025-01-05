@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexandrosMo
 - 👀 Programming
 - 🌱 Python
-- 💞️people who can teach me more about programming languages
 - 📫Alexandros.Moraitis99@gmail.com
 
 <!---
