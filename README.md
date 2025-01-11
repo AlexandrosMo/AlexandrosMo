@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlexandrosMo
 - 👀 Programming
-- 🌱 Python
 - 📫Alexandros.Moraitis99@gmail.com
 
 <!---
